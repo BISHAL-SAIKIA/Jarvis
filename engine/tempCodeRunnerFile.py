@@ -1,0 +1,2 @@
+text=takecommand()
+speak(text)
